@@ -1,0 +1,60 @@
+
+    .header {
+            height: 50px;
+        }
+
+        .ic {
+            height: 30px;
+            width: 30px;
+            padding: 5px;
+            margin-left: 5px;
+        }
+
+        .ic:hover {
+            transition: all ease .5s;
+            transform: scale(1.5);
+        }
+
+        .menu {
+            min-height: 50px;
+        }
+
+        #menu ul li a {
+            color: white;
+        }
+
+        #menu ul li a:hover {
+            color: blue;
+            text-decoration: underline;
+            transition: all ease 1s;
+        }
+
+        .services {
+            height: 300px;
+        }
+
+        #btn {
+            background: none;
+        }
+
+        #btn:hover {
+            background: gray;
+        }
+
+        .ufooter {
+            min-height: 200px;
+            background: gray;
+        }
+
+        .bfooter {
+            min-height: 50px;
+            background: black;
+        }
+
+        .offer {
+            min-height: 250px;
+        }
+
+        .font {
+            font-family: cambria;
+        }
